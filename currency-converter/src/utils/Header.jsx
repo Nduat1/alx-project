@@ -57,7 +57,7 @@ const Header = () => {
 
       {/* Mobile Menu */}
       {isMenuOpen && (
-        <div className="sm:hidden bg-secondary text-white mt-2 rounded shadow-lg p-4">
+        <div className="sm:hidden bg-transparent text-white mt-2 rounded shadow-lg p-4">
           <ul className="flex flex-col gap-4">
             <li>
               <Link
