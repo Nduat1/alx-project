@@ -41,7 +41,6 @@ Open the app in your browser at http://localhost:3000.
 **Usage**
 Navigate through the app using the navigation menu.
 Home: Perform currency conversions.
-Historical Rates: View past exchange rates for selected currencies.
 Multi Converter: Convert multiple currencies at once.
 Favorites: Save and manage favorite currency pairs.
 Save your favorite currency pairs for quick access later.
